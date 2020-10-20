@@ -20,6 +20,6 @@ Permutate allows for seamless and easy use of complex algorithms (like Heap's Al
 
 ## Multi Language Integration
 
-Permutate is not limited to single language architecture. It was designed and optimized to work with JavaScript, TypeScript, and Dart. With cohesive imports and fuctionality, Permutate keeps both codebases consistent. 
+Permutate is not limited to single language architecture. It was designed and optimized to work with JavaScript, TypeScript, and Dart. With cohesive imports and fuctionality, Permutate keeps both codebases consistent, allowing Permutate to remain the same on all languages. 
 
 ## Get Started
