@@ -46,7 +46,7 @@ At the top of your Dart file, import the `permutate` package, as shown:
 import 'package:permutate/dart/permutate.dart';
 ```
 
-### Using Permutate with Dart
+### Using Permutate with TypeScript
 
 __1. Installation with npm__
 
