@@ -18,4 +18,8 @@ Created with ❤️ by [@markmusic2727](https://twitter.com/MarkMusic2727) and [
 Permutate allows for seamless and easy use of complex algorithms (like Heap's Algorithm) to find every possible permutation of an array/list. Algorithms like these usually take a general understanding of computer science and mathematical concepts, like recursion and factorials, to recreate. Instead of spending valueble time grasping these conceps, simply create a Permutate instance. That is all it takes.
 
 
-## Initialization & Setup
+## Multi Language Integration
+
+Permutate is not limited to single language architecture. It was designed and optimized to work with JavaScript, TypeScript, and Dart. With cohesive imports and fuctionality, Permutate keeps both codebases consistent. 
+
+## Get Started
