@@ -1,0 +1,19 @@
+{
+  "name": "permutant",
+  "version": "1.0.10",
+  "description": "Permutant finds every possible permutation of an array using Heap's Algorithm.",
+  "main": "ts/permutant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markmusic2727/permutate.git"
+  },
+  "author": "Mark Music",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markmusic2727/permutate/issues"
+  },
+  "homepage": "https://github.com/markmusic2727/permutate#readme"
+}
