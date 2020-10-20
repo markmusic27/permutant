@@ -15,7 +15,7 @@ Created with ❤️ by [@markmusic2727](https://twitter.com/MarkMusic2727) and [
 
 ## Why Permutate?
 
-Permutate allows for seamless and easy use of complex algorithms (like Heap's Algorithm) to find every possible permutation of an array/list. Algorithms like these usually take a general understanding of computer science and mathematical concepts, like recursion and factorials, to recreate. Instead of spending valueble time trying to grasp these conceps, all that is needed is Permutate.
+Permutate allows for seamless and easy use of complex algorithms (like Heap's Algorithm) to find every possible permutation of an array/list. Algorithms like these usually take a general understanding of computer science and mathematical concepts, like recursion and factorials, to recreate. Instead of spending valueble time grasping these conceps, simply create a Permutate instance. That is all it takes.
 
 
 ## Initialization & Setup
