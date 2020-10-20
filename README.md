@@ -10,22 +10,22 @@ Permutate is a JavaScript/TypeScript and Dart framework to find every possible p
 
 Created with ❤️ by [@markmusic2727](https://twitter.com/MarkMusic2727) and [@filippofonseca](https://twitter.com/FilippoFonseca) 
 
-## Table of Content
-  - [Why Permutate](##why-permutate?)
-  - [Multi Language Integration](##multi-language-integration)
-  - [Get Started](##get-started)
-  - [Learn More](##learn-more)
+# Table of Content
+  - [Why Permutate](#why-permutate)
+  - [Multi Language Integration](#multi-language-integration)
+  - [Get Started](#get-started)
+  - [Learn More](#learn-more)
 
-## Why Permutate?
+# Why Permutate?
 
 Permutate allows for seamless and easy use of complex algorithms (like Heap's Algorithm) to find every possible permutation of an array/list. Algorithms like these usually take a general understanding of computer science and mathematical concepts, like recursion and factorials, to recreate. Instead of spending valueble time grasping these conceps, simply create a Permutate instance. That is all it takes.
 
 
-## Multi Language Integration
+# Multi Language Integration
 
 Permutate is not limited to single language architecture. It was designed and optimized to work with TypeScript, and Dart. With cohesive imports and fuctionality, Permutate keeps both codebases consistent, allowing for Permutate to remain the same on all languages. 
 
-## Get Started
+# Get Started
 
 Ensure that you have the latest version of [Node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) (if using TS) or [Dart](https://dart.dev/) installed.
 
@@ -71,7 +71,7 @@ NOTE: The name Permutate after import is arbitrary; it can be replaced with what
 import Foo from "permutate";
 ```
 
-## Learn More
+# Learn More
 
 Want to know more about what goes behing the scenes in Permutate? We, at Permutate, have made a comprehensive lesson on all of the math behind Heap's Algorithm. Check out the lesson [here](https://github.com/markmusic2727/permutate/blob/master/extras/lesson.md).
 
