@@ -70,6 +70,6 @@ import Foo from "permutate";
 
 ## Learn More
 
-Want to know more about what goes behing the scenes in Permutate? We, at Permutate, have made a comprehensive lesson on all of the math behind Heap's Algorithm. Check out the lesson [here]().
+Want to know more about what goes behing the scenes in Permutate? We, at Permutate, have made a comprehensive lesson on all of the math behind Heap's Algorithm. Check out the lesson [here](https://github.com/markmusic2727/permutate/blob/master/extras/lesson.md).
 
-If you want to know more about the functions and the different methods that can be called with Permutate, view the documentation [here]().
+If you want to know more about the functions and the different methods that can be called with Permutate, view the documentation [here](https://github.com/markmusic2727/permutate/blob/master/extras/documentation.md).
