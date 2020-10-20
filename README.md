@@ -11,7 +11,7 @@ Permutate is a JavaScript/TypeScript and Dart framework to find every possible p
 Created with ❤️ by [@markmusic2727](https://twitter.com/MarkMusic2727) and [@filippofonseca](https://twitter.com/FilippoFonseca) 
 
 ## Table of Content
-  - [Why Permutate](##why-permutate)
+  - [Why Permutate](##why-permutate?)
   - [Multi Language Integration](##multi-language-integration)
   - [Get Started](##get-started)
   - [Learn More](##learn-more)
