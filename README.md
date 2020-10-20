@@ -4,7 +4,7 @@
 <br>
 <br>
 
-# Permutate Framework `1.0.11`
+# Permutate Framework `1.0.10`
 
 Permutate is a JavaScript/TypeScript and Dart framework to find every possible permutation of an array _(or list in Dart)_ of data.
 
@@ -24,7 +24,7 @@ Permutate is not limited to single language architecture. It was designed and op
 
 ## Get Started
 
-Ensure that you have the latest version of [Node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) (if using TS) [Dart](https://dart.dev/) installed.
+Ensure that you have the latest version of [Node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) (if using TS) or [Dart](https://dart.dev/) installed.
 
 ### Using Permutate with Dart
 
@@ -35,7 +35,7 @@ In your `pubspec.yaml` file, add the following to your dependancies:
 ```yaml
 dependencies:
   ...
-  permutate: ^1.1.10
+  permutate: ^1.0.10
 ```
 
 __2. Initiaization__
@@ -67,3 +67,9 @@ NOTE: The name Permutate after import is arbitrary; it can be replaced with what
 ```ts
 import Foo from "permutate";
 ```
+
+## Learn More
+
+Want to know more about what goes behing the scenes in Permutate? We, at Permutate, have made a comprehensive lesson on all of the math behind Heap's Algorithm. Check out the lesson [here]().
+
+If you want to know more about the functions and the different methods that can be called with Permutate, view the documentation [here]().
