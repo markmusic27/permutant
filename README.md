@@ -6,11 +6,7 @@
 <br>
 <br>
 
-<<<<<<< HEAD
-# Permutant Framework `1.0.12`
-=======
-# Permutant Framework `1.0.12`
->>>>>>> 5a6e3aef6267e55cc076a594a263b969d4cb02b4
+# Permutant Framework `1.0.15`
 
 Permutant is a JavaScript/TypeScript and Dart framework to find every possible permutation of an array _(or list in Dart)_ of data.
 
