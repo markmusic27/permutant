@@ -6,7 +6,7 @@
 <br>
 <br>
 
-# Permutant Framework `1.0.11`
+# Permutant Framework `1.0.15`
 
 Permutant is a JavaScript/TypeScript and Dart framework to find every possible permutation of an array _(or list in Dart)_ of data.
 
@@ -40,7 +40,7 @@ In your `pubspec.yaml` file, add the following to your dependancies:
 ```yaml
 dependencies:
   ...
-  permutant: ^1.0.10
+  permutant: ^1.0.15
 ```
 
 __2. Initiaization__
@@ -48,7 +48,7 @@ __2. Initiaization__
 At the top of your Dart file, import the `permutant` package, as shown:
 
 ```dart
-import 'package:permutate/dart/permutant.dart';
+import 'package:permutant/dart/permutant.dart';
 ```
 
 ### Using Permutant with TypeScript
@@ -64,7 +64,7 @@ __2. Initiaization__
 At the top of your TypeScript file, import `permutant`, as shown:
 
 ```ts
-import Permutate from "permutant";
+import Permutant from "permutant";
 ```
 
 NOTE: The name Permutant after import is arbitrary; it can be replaced with whatever you'd like and the code will still run properly:

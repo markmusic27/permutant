@@ -1,4 +1,6 @@
-class Permutate {
+export * from "./permutant";
+
+export class Permutant {
   constructor(public arr: number[]){};
   output: number[] = [];
 
@@ -32,7 +34,3 @@ class Permutate {
     return this.output;
   }
 };
-
-const permutations = new Permutate([1, 2, 3, 5]);
-
-console.log(permutations.getPermutations())
